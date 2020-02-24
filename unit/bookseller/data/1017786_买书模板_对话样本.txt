@@ -1,0 +1,25 @@
+你好	SAYHI	cfmd
+不记得了	CMD_UPDATE_USER_BOOKNAME	cfmd
+我要买平凡的世界	BUY	user_bookname:平凡的世界	cfmd
+我想买五三	BUY	user_bookname:五三	cfmd
+三体	CMD_UPDATE_USER_BOOKNAME	user_bookname:三体	cfmd
+推荐	CMD_UPDATE_USER_INTENT	cfmd
+买书	CMD_UPDATE_USER_INTENT	cfmd
+退货	CMD_UPDATE_USER_INTENT	cfmd
+忘记了	CMD_UPDATE_USER_BOOKNAME	cfmd
+我想买教辅类书籍	CMD_UPDATE_USER_BOOKTYPE	user_booktype:教辅	cfmd
+我想买小说	CMD_UPDATE_USER_BOOKTYPE	user_booktype:小说	cfmd
+教辅	CMD_UPDATE_USER_BOOKTYPE	cfmd
+小说	CMD_UPDATE_USER_BOOKTYPE	cfmd
+好的	GOODBYE	cfmd
+谢谢	GOODBYE	cfmd
+行，我先看看	GOODBYE	cfmd
+我想买书	BUY	cfmd
+我要买书	BUY	cfmd
+给我推荐几本书	RECOMMEND	cfmd
+给我推荐小说	RECOMMEND	user_booktype:小说	cfmd
+嗨	SAYHI	cfmd
+hi	SAYHI	cfmd
+您好	SAYHI	cfmd
+我要买三体	CMD_UPDATE_USER_BOOKNAME	user_bookname:三体	cfmd
+帮我推荐教辅类书籍	RECOMMEND	user_booktype:教辅	cfmd
